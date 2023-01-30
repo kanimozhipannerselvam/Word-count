@@ -25,8 +25,8 @@ Stop
 
 ## PROGRAM:
 ~~~
-Developed by : S.M.Syed Mokthiyar
-refference no: 22006227
+Developed by : kanimozhipannerselvam
+refference no: 22002752
 
 num_words =0
 with open('text.txt','r') as file1:
